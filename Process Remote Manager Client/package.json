@@ -1,0 +1,19 @@
+{
+  "name": "remote-process-manager-client",
+  "version": "1.0.0",
+  "description": "comunicarse al servidor\r avisar de que se conecto el usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "node-wmi": "^0.0.5",
+    "pkg": "^5.8.1",
+    "socket.io-client": "^4.7.4"
+  }
+}
